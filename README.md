@@ -1,9 +1,15 @@
 # Essential Feed App
 
 ## Example -unclear- Story
+```
 As a user
 I want the app to load the feed
 So I can see the feed
+```
+
+#### Flowchart
+
+![Essential Feed](story_flowchart.png)
 
 ## Acceptance criteria
 Given a user
@@ -116,3 +122,7 @@ Then the app should display an error message
 3. System timestamps the new cache.
 4. System replaces the cache with new data.
 5. System delivers success message.
+
+## Flowchart
+
+![Essential Feed](detail_requirements_flochart.png)
